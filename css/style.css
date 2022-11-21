@@ -508,13 +508,6 @@ section {
   padding-top: .2rem;
 }
 
-@media(max-width: 767px){
-  .about .row .video video {
-    width: 300px;
-    align-self: center;
-  }  
-}
-
 /* Staff */
 
 .profs {
